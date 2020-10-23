@@ -10,8 +10,8 @@ You can find me on [![LinkedIn][1.2]][1], or on [![Medium][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/sabhi8226/sabhi8226/main/LinkedIn.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/sabhi8226/sabhi8226/main/LinkedIn.png (LinkedIn icon without padding)
+[1.2]: https://raw.githubusercontent.com/sabhi8226/sabhi8226/main/LinkedIn.png (Linkedin icon without padding)
+[2.2]: https://raw.githubusercontent.com/sabhi8226/sabhi8226/main/MediumIcon.png (Medium icon without padding)
 
 <!-- Links to your social media accounts -->
 
