@@ -5,7 +5,7 @@
 
 
 > **Technical Skills**
-Cloud Computing | DevOps | Terraform | Ansible | Kubernetes | Docker | RedHat Linux ...
+Cloud Computing | DevOps | Terraform | Ansible | Kubernetes | Docker | Big Data | Artificial Intelligence | RedHat Linux ...
 
 **You Can Connect with Me On** 
 Linkedin :- https://www.linkedin.com/in/abhishek-chouhan8226/
