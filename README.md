@@ -11,6 +11,6 @@ Cloud Computing | DevOps | Terraform | Ansible | Kubernetes | Docker | Big Data 
 Linkedin :- https://www.linkedin.com/in/abhishek-chouhan8226/
 
 **I Write Blog On**
-Medium :- https://medium.com/@sabhi8226
+Medium :- https://its-abhi.medium.com/
 
 Thank you ..!!
